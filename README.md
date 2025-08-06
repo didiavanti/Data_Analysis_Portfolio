@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 # Hi, I'm Derek Sado
 
 **Data Analyst & Data Scientist**  
@@ -5,50 +7,23 @@ Turning messy data into clear business wins.
 
 ---
 
-### 🌟 About Me
-
-My journey into data began with my own B2B startup, where I discovered my passion for digging into metrics to drive smarter decisions. Since then, I’ve helped teams optimize processes, track KPIs, and build executive dashboards that lead to real action.
-
-I thrive on bridging the gap between complexity and clarity for C-level stakeholders—delivering insights through clean code, compelling visuals, and narrative storytelling.
-
----
-
-### 🔧 Tools & Technologies
-
-- **Languages:** Python, SQL
-- **BI & Visualization:** Tableau, Power BI, Excel
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-### 🚀 Key Skills
+## 🚀 Portfolio Projects
 
-- Data Cleaning & Wrangling
-- Exploratory Data Analysis (EDA)
-- KPI Development & Executive Reporting
-- Dashboard Design & Automated Reporting
-- Data Storytelling
+### Sales Dashboard
 
----
+<img src="assets/sales_dashboard.png" width="400"/>
 
-### 📂 Portfolio Projects
-
-- **[Sales Dashboard](#)** &mdash; Tableau, SQL  
-  Interactive sales dashboard for actionable KPI tracking.
-
-- **[Customer Churn Analysis](#)** &mdash; Python, Excel  
-  Predictive modeling and insights for churn reduction.
-
-- **[Automated Reporting](#)** &mdash; Python, Power BI  
-  Automated business reports saving hours each week.
-
-> See more in my [data-portfolio](https://github.com/didiavanti/data-portfolio) repository.
+Interactive sales dashboard for actionable KPI tracking.
 
 ---
 
-### 📫 Connect
+## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/derek-sado-013351bb/)
-
----
-
-<!-- Minimalist, clean, and focused on value. -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derek-sado-013351bb/)
