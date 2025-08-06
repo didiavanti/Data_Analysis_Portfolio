@@ -1,4 +1,4 @@
-![Banner](assets/banner.png.png)
+![Banner](banner.png.png)
 
 # Hi, I'm Derek Sado
 
