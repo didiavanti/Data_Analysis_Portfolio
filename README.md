@@ -34,7 +34,7 @@ I thrive on bridging the gap between complexity and clarity for C-level stakehol
 
 ### 📂 Portfolio Projects
 
-- **[Sales Dashboard](#)** &mdash; Tableau, SQL  
+- **[[Sales Dashboard](https://github.com/didiavanti/Data_Analysis_Portfolio/tree/main/sales-dashboard)](#)** &mdash; Tableau, SQL  
   Interactive sales dashboard for actionable KPI tracking.
 
 - **[Customer Churn Analysis](#)** &mdash; Python, Excel  
