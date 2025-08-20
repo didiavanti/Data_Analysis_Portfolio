@@ -8,7 +8,7 @@ _Blackrock, a global leader in Home Décor & Gift products, wanted to know what 
 ![Sales Dashboard Preview](sales_Dashboard.png)
 
 > **Explore the full interactive experience:**  
-> [🔗 View on Tableau Public](https://public.tableau.com/app/profile/derek.sado8467/viz/BlackrockAnalysis/Dashboard1?publish=yes)
+> [🔗 View on Tableau Public](https://public.tableau.com/app/profile/derek.sado8467/viz/BlackrockAnalysis_17556950423180/Dashboard1?publish=yes)
 
 ---
 
