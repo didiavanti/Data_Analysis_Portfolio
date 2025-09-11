@@ -48,7 +48,7 @@ Visualizes:
 - Category and subcategory performance
 - Regional comparisons
 
-![Sales Dashboard Screenshot](images/sales_dashboard.png)
+![Sales Dashboard Screenshot](images/Sales_dashboard.png)
 <sub>*Figure 1: Sales Dashboard. Trends and product mix are visualized for fast executive insights.*</sub>
 
 #### 👥 Customer Dashboard
