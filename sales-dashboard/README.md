@@ -48,7 +48,7 @@ Visualizes:
 - Category and subcategory performance
 - Regional comparisons
 
-![Sales Dashboard](./images/sales_dashboard.png))
+![Sales Dashboard Screenshot](sales-dashboard/images/sales_dashboard.png)
 <sub>*Figure 1: Sales Dashboard. Trends and product mix are visualized for fast executive insights.*</sub>
 
 #### 👥 Customer Dashboard
@@ -58,7 +58,7 @@ Highlights:
 - Top performers and at-risk segments
 - Geographic filters for targeted analysis
 
-![Customer Dashboard Screenshot](images/Customer_Dashboard.png)
+![Customer Dashboard Screenshot](sales-dashboard/images/Customer_Dashboard.png)
 <sub>*Figure 2: Customer Dashboard. Explore loyalty, value, and retention patterns by region.*</sub>
 
 ---
