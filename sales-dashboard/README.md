@@ -58,7 +58,7 @@ Highlights:
 - Top performers and at-risk segments
 - Geographic filters for targeted analysis
 
-![Customer Dashboard Screenshot](images/Customer_dashboard.png)
+![Customer Dashboard Screenshot](images/Customer_Dashboard.png)
 <sub>*Figure 2: Customer Dashboard. Explore loyalty, value, and retention patterns by region.*</sub>
 
 ---
