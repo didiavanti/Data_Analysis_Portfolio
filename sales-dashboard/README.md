@@ -1,77 +1,76 @@
-# 🌟 Blackrock Sales Dashboard: Uncovering Data-Driven Growth 🌟
+# Gamescube: Uncovering Insights with Business Intelligence Dashboards
 
-## 🚀 Project Story
-_Blackrock, a global leader in Home Décor & Gift products, wanted to know what really drives their revenue—and where the next big opportunity lies. As their data consultant, I transformed 530,000 rows of retail transactions into actionable insights and a compelling dashboard for the C-suite._
+## The Challenge
 
-## 📊 Dashboard at a Glance
+In 2017, Gamescube—a dynamic retailer of sports merchandise, apparel, technology, and recreational products—faced a crossroads. After years of steady growth, the company was accumulating mountains of transactional and customer data, but much of it lay dormant, untapped for strategic decisions. Executives knew that to stay competitive, they needed to turn this data into actionable insights. 
 
-![Sales Dashboard Preview](Sales_dashboard.png)
+Yet, the path was not straightforward. Sales had plateaued, margins were tightening, and customer loyalty was slipping. The company had just welcomed over 15,000 active buyers, but average spend per customer was declining, and nearly three-quarters of customers placed only one order. Gamescube needed answers to drive smarter growth.
 
-> **Explore the full interactive experience:**  
-> [🔗 View on Tableau Public](https://public.tableau.com/app/profile/derek.sado8467/viz/BlackrockAnalysis_17556950423180/Dashboard1?publish=yes)
+## My Approach
 
----
+I joined the project to transform data into a strategic asset. My mission: design and build two interactive business intelligence dashboards—one for Sales, one for Customers—that would reveal patterns, pinpoint opportunities, and empower the team to act.
 
-## 🎯 Business Questions Answered
+### Step 1: Understanding the Landscape
 
-- **How seasonal is our revenue, and what does it mean for next year’s strategy?**
-- **Which countries and customers truly fuel our growth (besides the UK)?**
-- **Where should Blackrock focus its expansion efforts?**
+I began by mapping the data structure: Orders, Customers, Geo Lookup, and Order Status tables—over 180,000 records in all. I explored quality, consistency, and relationships, using Excel for initial queries and checks. This groundwork was crucial to ensure the final dashboards would be trustworthy and robust.
 
----
+### Step 2: Shaping the Story
 
-## 🗂️ Data Snapshot
+Working closely with Gamescube’s leadership and sales teams, I identified five key business questions:
+- How are sales and profits trending year over year?
+- Which product subcategories drive revenue—and which lag behind?
+- What are sales and profit doing over time based on average?
+- What do customer loyalty and behavior look like?
+- Who are our most valuable customers and how do we retain them?
 
-- **Rows:** 530,000 transactions
-- **Columns:** 9 features (see table below)
-- **Period:** January 2010 – December 2011
-- **Format:** Excel (.xlsx)
+### Step 3: Building the Dashboards
 
-| Field        | What It Tells Us |
-|--------------|-----------------|
-| InvoiceNo    | Order basket, shopping journey |
-| StockCode    | Product ID, inventory flow |
-| Description  | Product name, customer taste |
-| Quantity     | Units bought, demand trend |
-| InvoiceDate  | Timing, seasonality |
-| UnitPrice    | Pricing, margin |
-| CustomerID   | Loyalty, segments |
-| Country      | Market, region focus |
-| Revenue      | Quantity × Unit Price |
+Using Tableau, I crafted two interactive dashboards:
 
----
+**Sales Dashboard:**  
+Visualized year-over-year and month-to-month sales, profits, and order volumes. Compared category and subcategory performance, spotlighting areas of strength and vulnerability.
 
-## 💡 Insights Unlocked
+![Sales Dashboard Screenshot](images/sales_dashboard.png)
 
-- **📈 Q4 Magic:** November is the blockbuster month ($1.51M). Q4 alone = 33.6% of annual revenue. But watch out: December drops 58%—classic post-holiday blues.
-- **🌍 Europe is the Engine:** Netherlands and EIRE lead non-UK sales; Australia is our star outside Europe. Top 4 Euro markets deliver 61.5% of international revenue.
-- **👑 Power Customers Rule:** Top 10 customers = 16.1% of annual sales. Customer 14646 alone brings in 4x more than the 10th-ranked customer—prime candidates for VIP programs.
-- **🗺️ Expansion Potential:** Demand is clustered in Western/Northern Europe & Australia. Asia, Africa, and Russia remain untapped.
+**Customer Dashboard:**  
+Segmented customers by order frequency, spend, and loyalty. Identified top performers and flagged at-risk groups. Enabled filtering by geography for targeted insights.
 
----
+![Customer Dashboard Screenshot](images/customer_dashboard.png)
 
-## 🔮 Recommendations (From Data to Action)
+## The Insights
 
-- **Supercharge Q4:** Invest in inventory, marketing, and logistics for the holiday rush.  
-- **Q1 Comeback:** Launch post-holiday campaigns to fight the February slump.
-- **Double Down on Europe:** Grow market share where the brand already wins.
-- **VIP Customer Care:** Retain and grow big accounts with tailored strategies.
-- **Explore New Markets:** Use winning playbooks to enter North America and nurture rising stars in Spain, Japan, and beyond.
+The dashboards told a compelling story:
 
----
+- **Stable but declining performance:**  
+  2017 sales reached $10.6M, down 4% from the previous year, with profit margins shrinking by 6.5%.
 
-## 🛠️ How To Explore
+- **Customer growth vs. value:**  
+  The customer base soared by nearly 50%, but average sales per customer dropped by over a third, to just $700.
 
-1. **Open the Tableau dashboard** (`tableau/sales_dashboard.twbx`) for a deep dive.
-2. **Check out the Excel data** in `data/` to follow the analysis journey.
-3. **Browse images/** for quick visual summaries.
+- **Retention challenges:**  
+  71% of customers placed only one order; few came back for more.
 
----
+- **Concentrated value:**  
+  The top 10 customers alone accounted for over $11,000 in profit, with individual contributions ranging up to $1,252.
 
-## 🙋‍♂️ Let’s Connect
+- **Product and regional patterns:**  
+  Fan Shop led sales, while Technology and Outdoors excelled in profitability. Certain regions and categories lagged, revealing clear opportunities for improvement.
 
-For questions, ideas, or collaborations, reach out via [GitHub](https://github.com/didiavanti).
+## The Impact
+
+With these insights, Gamescube’s leadership gained clarity—and a roadmap for action:
+
+- Focus on converting one-time buyers into repeat customers.
+- Investigate the drivers of profit margin decline.
+- Target product and regional strategies to address weaknesses.
+- Leverage top-performing categories and customers for growth.
+
+The dashboards became a part of Gamescube’s strategic toolkit, driving conversations and decisions. Most importantly, the project proved how data, when brought to life, could guide a business toward sustainable success.
 
 ---
 
-> _Data isn’t just numbers—it’s the story behind Blackrock’s success. This dashboard is your map to what comes next._
+**Tools:**  
+- Tableau (interactive dashboards)  
+- Excel (data cleaning, querying)
+
+**Explore the full dashboards and supporting files [here](#).**
