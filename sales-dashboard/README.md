@@ -110,7 +110,7 @@ The dashboards became central to Gamescube’s strategy sessions, driving conver
 
 ## 🔗 Explore More
 
-- [Download Full Dashboards](#)
+- [Download Full Dashboards](https://public.tableau.com/app/profile/derek.sado8467/viz/GamescubeSalesDashboard/SalesDashboard)
 - [Access Supporting Excel Files](#)
 
 ---
