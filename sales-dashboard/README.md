@@ -19,12 +19,41 @@ Despite onboarding **15,000+ active buyers** and maintaining over **$10M in annu
 
 I was brought in to **transform raw data into a strategic asset**. My mission: design and deliver two interactive dashboards—**Sales** and **Customer**—that would uncover patterns, highlight opportunities, and empower smarter decisions.
 
+
 ### 1️⃣ Understanding the Landscape
 
 - **Data Structure:**  
   Mapped the database (Orders, Customers, Geo Lookup, Order Status) with over **180,000 records**.
 - **Initial Data Work:**  
   Performed rigorous quality checks and transformations using Excel.
+
+  #### 📦 Gamescube Data Schema
+
+This schema describes the structure of the main dataset used for the Gamescube Business Intelligence Dashboards. It covers key columns, their data types, and descriptions to clarify their role in analysis.
+
+| Column Name             | Data Type  | Description                                                                                  |
+|------------------------ |-----------|----------------------------------------------------------------------------------------------|
+| Subcategory             | String    | Product subcategory (e.g., Sporting Goods).                                                  |
+| Customer Id             | Integer   | Unique identifier for each customer.                                                         |
+| Customer Segment        | String    | Type of customer (e.g., Consumer, Corporate, Home Office).                                   |
+| Category                | String    | High-level product category (e.g., Fitness).                                                 |
+| Latitude                | Float     | Latitude coordinate of customer's location.                                                  |
+| Longitude               | Float     | Longitude coordinate of customer's location.                                                 |
+| City                    | String    | City where the order was placed.                                                             |
+| Country                 | String    | Country where the customer is located.                                                       |
+| Order Date              | DateTime  | Date and time when the order was placed (format: DD/MM/YYYY HH:MM).                          |
+| Order Id                | Integer   | Unique identifier for the order.                                                             |
+| Quantity                | Integer   | Number of units purchased in the order.                                                      |
+| Sales                   | Float     | Sales value of the order.                                                                    |
+| Order Profit Per Order  | Float     | Profit (or loss if negative) from the order.                                                 |
+| Region                  | String    | Geographic region of the customer (e.g., South Asia, Southeast Asia).                        |
+
+---
+
+> *For additional details on data models or to request sample data files, please reach out or explore the repository further!*
+
+
+  
 
 ### 2️⃣ Shaping the Story
 
